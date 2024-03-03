@@ -1,0 +1,73 @@
+* {
+    padding: 0;
+    margin: 0;
+    color:white;
+}
+#navbar{
+    height:100px ;
+    background-color: #0f1111;
+
+}
+
+button{
+    background-color: #f08804;
+    
+}
+
+#logo{
+    color: #f08804;
+    font: size 25px;
+    margin-left: 2px;
+}
+a{
+    margin-right: 100px;
+    text-transform: none;
+    color: white;
+}
+button{
+    background-color: #f08804;
+    color: wheat;
+}
+
+input{
+    margin-left: 200px;
+}
+
+footer {
+    border: 45px solid black;
+    text-align: center;
+    padding: 3px;
+    background-color: black;
+    color:white;
+}
+
+.contentBox{ 
+    color:black;
+    width: 286px;
+    height: 286px;
+    border: 2px solid black;
+    display: inline-block;
+}
+
+#content{
+    
+    height: 500px;
+
+}
+
+.contentBox{
+   
+    background-image: url("naik1.jpg");
+    background-position: cover;
+    background-size: 25WW0px;
+
+
+
+
+
+@media(width :600px){
+    content: ;{
+        background-color: red;
+    }
+}
+
